@@ -1,0 +1,17 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+body{
+    font-family: sans-serif;
+}
+body h1{
+    color: red;
+    margin-bottom: 50px;
+}
+#Whats{
+    text-align: none;
+    font-size: 1.2em;
+    margin-left: 20px;
+    color: black;
+}
